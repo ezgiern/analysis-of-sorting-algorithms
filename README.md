@@ -1,4 +1,4 @@
-# Algorithm Analysis Project
+# Analysis Of Sorting Algorithms
 
 This repository contains the analysis of various sorting algorithms and their performance on different datasets. The project includes implementation of algorithms in Java, detailed performance analysis, and visual representation of results.
 
